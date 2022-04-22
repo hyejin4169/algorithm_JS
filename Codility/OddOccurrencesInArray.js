@@ -1,4 +1,4 @@
-let A = [9, 3, 9, 3, 9, 7, 9]
+let A = [9, 3, 9, 3, 9, 8, 9]
 
 function solution(A) {
     const obj = {};
